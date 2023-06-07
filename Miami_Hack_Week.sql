@@ -1276,16 +1276,6 @@ set hacker_location = replace(hacker_location, 'Ellicott City, Baltimore, Maryla
 update hacker_location_info_2022
 set hacker_location = replace(hacker_location, 'Hagerstown, Baltimore, Maryland, United States, United States', 'Hagerstown, Maryland, United States');
 
-
-
-
-
-
-
-
-
-#EVERYTHING GOT DELETED AND I REINSERTED DATA AND USED SCRIPT TO QUERY, FIXING ISSUES NOW BELOW
-
 update hacker_location_info_2022
 set hacker_location = replace(hacker_location, 'Las Vegas, Nevada, United States, Nevada, United States', 'Las Vegas, Nevada, United States');
 
